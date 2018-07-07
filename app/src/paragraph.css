@@ -1,0 +1,9 @@
+.Paragraph{
+    background-image: url(images/img2.jpg);
+    width: 650px;
+    height: 750px;
+    color: yellow;
+    background-size: 100% 100%;
+    padding: 50px 80px;
+    margin: 180px;
+}
